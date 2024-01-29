@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nof shabtay
-- 👀 I’m interested to programing in C, Java, Prolog or Python 
+- 👀 I’m interested to programing in C, Java, Flutter or Python 
 - 🌱 I’m currently learning Software Engineer at the Open University
 - 💞️ I’m looking to collaborate on open code for beginners
 - 📫 How to reach me nof.b.sh@gmail.com
